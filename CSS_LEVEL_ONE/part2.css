@@ -1,0 +1,16 @@
+body{
+  background: url(https://media-be.chewy.com/wp-content/uploads/2021/05/27140116/Pug_FeaturedImage.jpg);
+}
+div{
+  background-color: Blue;
+  border-color: Orange;
+  border-width: 5px;
+  border-style: double;
+}
+p{
+  color: yellow;
+}
+span{
+  background: black;
+  color: white;
+}
